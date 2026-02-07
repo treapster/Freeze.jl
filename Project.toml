@@ -1,0 +1,4 @@
+name = "Freeze"
+uuid = "0d353f8b-6619-4e5b-8818-7c652e6cafdc"
+authors = ["Denis Revunov <rnovds@gmail.com>"]
+version = "0.1.0"
