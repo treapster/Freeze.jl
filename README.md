@@ -22,9 +22,9 @@ Stacktrace:
  [1] error(s::String)
    @ Base ./error.jl:35
  [2] _err()
-   @ Freeze ~/randomshit/Freeze.jl/src/Freeze.jl:11
+   @ Freeze ~/.../Freeze.jl/src/Freeze.jl:11
  [3] setindex!(::Frozen{Vector{Int64}}, ::Int64, ::Int64)
-   @ Freeze ~/randomshit/Freeze.jl/src/Freeze.jl:12
+   @ Freeze ~/.../Freeze.jl/src/Freeze.jl:12
  [4] top-level scope
    @ REPL[4]:1
 
